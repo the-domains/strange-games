@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Strange Games]]></title>
+        <description><![CDATA[Strange Games]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Dec 2015 05:36:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Talos Principle]]></title>
+            <description><![CDATA[<article><h1>The Talos Principle</h1><p>Before playing this game, I knew only a few things:</p></article>]]></description>
+            <link>undefinedthe-talos-principle/index.html</link>
+            <guid isPermaLink="false">ac671e8f-f74d-4440-8329-2ef9a7ef254a</guid>
+            <pubDate>Thu, 03 Dec 2015 05:36:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
