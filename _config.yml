@@ -1,0 +1,29 @@
+name: Strange Games
+favicon: null
+layout_spectrum: 0.6116012218408287
+typography_spectrum: 0.7151840834412724
+title: "A place where Simon discusses games he's played"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6444930813740939
+  lightness: 0.8824647527653724
+  saturation: 0.39955364470370114
+  rhythmicContrast: 0.24864097917452455
+purpose: []
