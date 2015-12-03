@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Strange Games]]></title>
         <description><![CDATA[Strange Games]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/strange-games/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 05:36:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Dec 2015 05:37:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/strange-games/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Talos Principle]]></title>
             <description><![CDATA[<article><h1>The Talos Principle</h1><p>Before playing this game, I knew only a few things:</p></article>]]></description>
-            <link>undefinedthe-talos-principle/index.html</link>
+            <link>https://thegrid.ai/strange-games/the-talos-principle/index.html</link>
             <guid isPermaLink="false">ac671e8f-f74d-4440-8329-2ef9a7ef254a</guid>
-            <pubDate>Thu, 03 Dec 2015 05:36:15 GMT</pubDate>
+            <pubDate>Thu, 03 Dec 2015 05:37:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
