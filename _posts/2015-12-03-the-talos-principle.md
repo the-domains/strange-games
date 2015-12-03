@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-03T05:36:15.490Z'
-dateModified: '2015-12-03T05:36:00.355Z'
+datePublished: '2015-12-03T05:37:16.994Z'
+dateModified: '2015-12-03T05:37:10.677Z'
 title: The Talos Principle
 author: []
 authors: []
