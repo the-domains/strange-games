@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-04T22:49:38.777Z'
-dateModified: '2015-12-04T22:49:36.110Z'
+datePublished: '2015-12-04T22:50:31.035Z'
+dateModified: '2015-12-04T22:50:17.551Z'
 title: The Talos Principle
 author: []
 sourcePath: _posts/2015-12-03-the-talos-principle.md
@@ -50,3 +50,4 @@ Because the really satisfying thing about playing the Talos Principle is, to me,
 This last one is especially confounding to me, because while I deeply want to help humans advance, which seems to mean helping us advance and not simply re-tread the same problems & questions over and over... I still really want to give out copies of the Talos Principle to my thoughtful friends - to let them cover the same ground I've been wallowing in for the past 6 weeks. And so it seems that in the scope of human history my time with the Talos Principle has advanced us not at all. In fact it does the opposite - since it's a waste of time that perpetuates itself - encouraging players like me to push it on others.
 
 But that's quite an accomplishment, for a video game.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/908087dd-8b38-499b-b17d-b91dc7cb93aa.jpg)
