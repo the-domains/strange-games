@@ -4,21 +4,21 @@
         <description><![CDATA[A place where Simon discusses games he's played]]></description>
         <link>https://thegrid.ai/strange-games/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 22:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 22:43:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/strange-games/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Talos Principle on Steam]]></title>
+            <description><![CDATA[<article><h1>The Talos Principle on Steam</h1><p>"An adept and satisfying puzzle game with a narrative that requires a bit of player investment to yield its biggest rewards." Read the full review here. Dear philosophers, The Talos Principle and most of its DLCs are currently 66% off, Road to Gehenna 33% off!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36efb0aa3c284eb221a30968d823905b314872cd.jpg"></article>]]></description>
+            <link>http://store.steampowered.com/app/257510/</link>
+            <guid isPermaLink="false">ebfc928e-8fd1-48f6-b8e2-074c36477e5b</guid>
+            <pubDate>Fri, 04 Dec 2015 22:43:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Talos Principle]]></title>
             <description><![CDATA[<article><h1>The Talos Principle</h1><p>Before playing this game, I knew only a few things:</p></article>]]></description>
             <link>https://thegrid.ai/strange-games/the-talos-principle/index.html</link>
             <guid isPermaLink="false">ac671e8f-f74d-4440-8329-2ef9a7ef254a</guid>
             <pubDate>Thu, 03 Dec 2015 05:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Talos Principle on Steam]]></title>
-            <description><![CDATA[<article><h1>The Talos Principle on Steam</h1><p>"An adept and satisfying puzzle game with a narrative that requires a bit of player investment to yield its biggest rewards." Read the full review here. Dear philosophers, The Talos Principle and most of its DLCs are currently 66% off, Road to Gehenna 33% off!!!</p><img src="https://scontent.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/12308258_972243092799171_1777416193947760327_n.jpg?oh=2e54c04625445c606b3ad1ed46563333&oe=56EF9B54"></article>]]></description>
-            <link>http://store.steampowered.com/app/257510/</link>
-            <guid isPermaLink="false">ebfc928e-8fd1-48f6-b8e2-074c36477e5b</guid>
-            <pubDate>Fri, 04 Dec 2015 22:42:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
