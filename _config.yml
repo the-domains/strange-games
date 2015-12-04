@@ -1,7 +1,7 @@
 name: Strange Games
 favicon: null
-layout_spectrum: 0.6116012218408287
-typography_spectrum: 0.63777
+layout_spectrum: 0
+typography_spectrum: 0.68703
 title: "A place where Simon discusses games he's played"
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.6444930813740939
   lightness: 0.8824647527653724
   saturation: 0.39955364470370114
-  rhythmicContrast: 0.24864097917452455
+  rhythmicContrast: 0.5
 purpose: []
