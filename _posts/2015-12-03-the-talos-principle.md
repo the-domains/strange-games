@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-04T22:45:46.599Z'
-dateModified: '2015-12-04T22:45:42.058Z'
+datePublished: '2015-12-04T22:49:17.863Z'
+dateModified: '2015-12-04T22:49:14.585Z'
 title: The Talos Principle
 author: []
 sourcePath: _posts/2015-12-03-the-talos-principle.md
