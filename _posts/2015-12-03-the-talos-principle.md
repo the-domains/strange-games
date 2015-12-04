@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T05:37:16.994Z'
-dateModified: '2015-12-03T05:37:10.677Z'
+datePublished: '2015-12-04T22:43:47.552Z'
+dateModified: '2015-12-04T22:43:26.133Z'
 title: The Talos Principle
 author: []
+sourcePath: _posts/2015-12-03-the-talos-principle.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-the-talos-principle.md
-published: true
 url: the-talos-principle/index.html
 _type: Article
 
