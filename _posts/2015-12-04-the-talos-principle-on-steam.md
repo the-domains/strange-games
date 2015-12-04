@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://store.steampowered.com/app/257510/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - talos
   - elohim
@@ -17,8 +17,8 @@ keywords:
   - croteam
   - steampowered
 description: '"An adept and satisfying puzzle game with a narrative that requires a bit of player investment to yield its biggest rewards." Read the full review here. Dear philosophers, The Talos Principle and most of its DLCs are currently 66% off, Road to Gehenna 33% off!!!'
-datePublished: '2015-12-04T22:42:56.038Z'
-dateModified: '2015-12-03T05:05:43.749Z'
+datePublished: '2015-12-04T22:43:37.947Z'
+dateModified: '2015-12-04T22:43:23.031Z'
 author: []
 related: []
 app_links: []
